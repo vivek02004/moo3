@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\vivek\\OneDrive\\Desktop\\ETH_AVAX_Module_2-main\\ETH_AVAX_Module_2-main\\contracts\\SchoolAttedance.sol": {
+      "lastModificationDate": 1723887576585,
+      "contentHash": "41588899f0c48c8f06e87784f499e83e",
+      "sourceName": "contracts/SchoolAttedance.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "SchoolAttendance"
+      ]
+    }
+  }
+}
